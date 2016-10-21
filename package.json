@@ -1,0 +1,11 @@
+{
+  "name": "tb04-mint",
+  "version": "0.0.1",
+  "description": "create for TB-04",
+  "main": "app.js",
+  "author": "peerax <teerasej@nextflow.in.th>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
